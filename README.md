@@ -1,3 +1,3 @@
 # Encryption-cpp
 
-First C++ project - encryption
+Simple C++ project; Enrypts a word based on cipher text & dictionary
